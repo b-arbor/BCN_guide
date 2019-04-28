@@ -1,0 +1,35 @@
+
+
+body{
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    margin: 50px 0px 0px 0px;
+    text-align: center
+}
+
+h1 {
+    font-size: 6em; 
+    margin-bottom: 1em; 
+    margin-top: 0em; 
+    background-color: #f4e7ef; 
+    text-align: center
+}
+h4 {
+    margin: 1em 2em 1em 2em; 
+}
+
+#album1, #album2, #album3, #album4, #album5 {
+    margin: 1em 5em 1em 1.5em; 
+}
+
+#p1 {
+    margin: 1em 1em 1em 0em;
+}
+
+#home-cover {
+    margin-top: 2em; 
+    background-color: #f4e7ef;
+}
